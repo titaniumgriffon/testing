@@ -1,0 +1,13 @@
+            {
+                "children": [
+                    {
+                        "name": "CECvCenter",
+                        "url": "https://cecvcenter.core.gocolumbiamo.com/ui"
+                    },
+                    {
+                        "name": "CECvCenter VAMI",
+                        "url": "https://cecvcenter.core.gocolumbiamo.com:5480"
+                    }
+                ],
+                "name": "Columbia Energy Center"
+            }
