@@ -1,0 +1,453 @@
+[
+  {
+    "toplevel_name": "Infrastructure Bookmarks"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "vCenter",
+            "url": "https://vcenter.edge.gocolumbiamo.com/ui"
+          },
+          {
+            "name": "vCenter VAMI",
+            "url": "https://vcenter.edge.gocolumbiamo.com:5480"
+          }
+        ],
+        "name": "COC"
+      },
+      {
+        "children": [
+          {
+            "name": "PPvCenter",
+            "url": "https://ppvcenter.core.gocolumbiamo.com/ui"
+          },
+          {
+            "name": "PPvCenter VAMI",
+            "url": "https://ppvcenter.core.gocolumbiamo.com:5480"
+          }
+        ],
+        "name": "PowerPlant"
+      },
+      {
+        "children": [
+          {
+            "name": "CECvCenter",
+            "url": "https://cecvcenter.core.gocolumbiamo.com/ui"
+          },
+          {
+            "name": "CECvCenter VAMI",
+            "url": "https://cecvcenter.core.gocolumbiamo.com:5480"
+          }
+        ],
+        "name": "Columbia Energy Center"
+      },
+      {
+        "children": [
+          {
+            "name": "WTPvCenter",
+            "url": "https://wtpvcenter.edge.gocolumbiamo.com/ui"
+          },
+          {
+            "name": "WTPvCenter VAMI",
+            "url": "https://wtpvcenter.edge.gocolumbiamo.com:5480"
+          }
+        ],
+        "name": "Water Treatment Plant"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "name": "Dell A1",
+                "url": "https://a1.core.gcm.com"
+              },
+              {
+                "name": "Dell A2",
+                "url": "https://a2.core.gcm.com"
+              },
+              {
+                "name": "Dell A3",
+                "url": "https://a3.core.gcm.com"
+              },
+              {
+                "name": "Dell A4",
+                "url": "https://a4.core.gcm.com"
+              }
+            ],
+            "name": "Dell A"
+          },
+          {
+            "children": [
+              {
+                "name": "Dell B1",
+                "url": "https://dell-b1.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell B2",
+                "url": "https://dell-b2.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell B3",
+                "url": "https://dell-b3.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell B4",
+                "url": "https://dell-b4.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Chassis Management Console",
+                "url": "https://10.0.10.210"
+              }
+            ],
+            "name": "Dell B"
+          },
+          {
+            "children": [
+              {
+                "name": "Dell C1",
+                "url": "https://dell-c1.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell C2",
+                "url": "https://dell-c2.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell C3",
+                "url": "https://dell-c3.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Dell C4",
+                "url": "https://dell-c4.edge.gocolumbiamo.com"
+              }
+            ],
+            "name": "Dell C"
+          },
+          {
+            "children": [
+              {
+                "name": "Dell D1",
+                "url": "https://dell-d1.edge.gcm.com"
+              },
+              {
+                "name": "Dell D2",
+                "url": "https://dell-d2.edge.gcm.com"
+              },
+              {
+                "name": "Dell D3",
+                "url": "https://dell-d3.edge.gcm.com"
+              },
+              {
+                "name": "Dell D4",
+                "url": "https://dell-d4.edge.gcm.com"
+              },
+              {
+                "name": "Chassis Management Console",
+                "url": "https://10.0.30.102"
+              }
+            ],
+            "name": "Dell D"
+          },
+          {
+            "children": [
+              {
+                "name": "Velma",
+                "url": "https://Velma.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Shaggy",
+                "url": "https://Shaggy.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Scooby",
+                "url": "https://Scooby.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Daphne",
+                "url": "https://daphne.edge.gocolumbiamo.com"
+              },
+              {
+                "name": "Fred",
+                "url": "https://fred.core.gocolumbiamo.com"
+              }
+            ],
+            "name": "Mystery Machine"
+          },
+          {
+            "children": [
+              {
+                "name": "PPHost1",
+                "url": "https://pphost1.core.gcm.com"
+              },
+              {
+                "name": "PPHost2",
+                "url": "https://pphost2.core.gcm.com"
+              },
+              {
+                "name": "Chassis Management Console",
+                "url": "https://10.68.10.100"
+              }
+            ],
+            "name": "Powerplant"
+          },
+          {
+            "children": [
+              {
+                "name": "CECHost1",
+                "url": "https://cechost1.core.gcm.com"
+              },
+              {
+                "name": "CECHost2",
+                "url": "https://cechost2.core.gcm.com"
+              },
+              {
+                "name": "Chassis Management Console",
+                "url": "https://10.68.12.100"
+              }
+            ],
+            "name": "CEC"
+          },
+          {
+            "children": [
+              {
+                "name": "WTPHost1",
+                "url": "https://wtphost1.edge.gcm.com"
+              },
+              {
+                "name": "WTPHost2",
+                "url": "https://wtphost2.edge.gcm.com"
+              },
+              {
+                "name": "hassis Management Console",
+                "url": "https://10.68.25.100"
+              }
+            ],
+            "name": "Water Treatment Plant"
+          }
+        ],
+        "name": "Hosts"
+      }
+    ],
+    "name": "vCenters"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "CEC Veeam",
+            "url": "https://10.0.10.157/login.html"
+          },
+          {
+            "name": "PP Veeam",
+            "url": "https://10.0.10.156/login.html"
+          },
+          {
+            "name": "WTP Veeam",
+            "url": "https://10.0.10.158/login.html"
+          }
+        ],
+        "name": "iDRACS"
+      },
+      {
+        "children": [
+          {
+            "name": "Production SAN v7000G2",
+            "url": "https://10.0.10.219"
+          },
+          {
+            "name": "Backup SAN",
+            "url": "https://10.0.10.220"
+          },
+          {
+            "name": "DR SAN(Gekko)",
+            "url": "https://gekko.core.gcm.com"
+          }
+        ],
+        "name": "SANS"
+      },
+      {
+        "children": [
+          {
+            "name": "Veeam Enterprise Manager",
+            "url": "https://cocveeam-br.edge.gocolumbiamo.com:9443/login.aspx"
+          },
+          {
+            "name": "Tape Library",
+            "url": "https://10.0.10.7/login.php"
+          }
+        ],
+        "name": "Backups"
+      }
+    ],
+    "name": "Hardware"
+  },
+  {
+    "children": [
+      {
+        "name": "Barracuda SMTP Relay",
+        "url": "http://smtp.core.gcm.com"
+      },
+      {
+        "name": "GrafCrunch",
+        "url": "https://netcrunch.edge.gocolumbiamo.com:3000/login"
+      },
+      {
+        "name": "NetCrunch",
+        "url": "https://netcrunch.edge.gocolumbiamo.com/login.html"
+      },
+      {
+        "name": "Netmotion",
+        "url": "http://netmo.edge.gocolumbiamo.com:8080/status.jsp"
+      },
+      {
+        "name": "PrinterLogic",
+        "url": "https://printerlogic.edge.gocolumbiamo.com/admin/"
+      },
+      {
+        "name": "Published-Apps",
+        "url": "https://published-apps.edge.gocolumbiamo.com"
+      },
+      {
+        "name": "Varonis",
+        "url": "https://varonis-dsp-sql/datadvantage"
+      },
+      {
+        "name": "Thycotic",
+        "url": "https://thycotic.edge.gocolumbiamo.com"
+      },
+      {
+        "name": "Sectrack 2",
+        "url": "http://sectrack2.edge.gocolumbiamo.com/SecTrack2/index.php"
+      },
+      {
+        "name": "PACS S2",
+        "url": "https://s2.core.gocolumbiamo.com/"
+      },
+      {
+        "children": [
+          {
+            "name": "KBOX Admin Console",
+            "url": "https://k-box/admin"
+          },
+          {
+            "name": "KBOX System Console",
+            "url": "https://k-box/system"
+          }
+        ],
+        "name": "KBOX"
+      },
+      {
+        "children": [
+          {
+            "name": "Admin Portal",
+            "url": "https://oi-pwdmanager.edge.gocolumbiamo.com/PMAdmin"
+          },
+          {
+            "name": "Service Desk Portal",
+            "url": "https://oi-pwdmanager.edge.gocolumbiamo.com/PMHelpdesk"
+          },
+          {
+            "name": "User Portal",
+            "url": "https://oi-pwdmanager.edge.gocolumbiamo.com/PMUser"
+          }
+        ],
+        "name": "Password Manager"
+      }
+    ],
+    "name": "Internal Management Sites"
+  },
+  {
+    "children": [
+      {
+        "name": "City Firewall - OP8",
+        "url": "https://op8.edge.gocolumbiamo.com:10443/login"
+      },
+      {
+        "name": "FortiAnalyzer",
+        "url": "https://analyzer.edge.gocolumbiamo.com/p/login/"
+      },
+      {
+        "name": "Water & Light Firewall",
+        "url": "https://wl500e.edge.gocolumbiamo.com/login"
+      },
+      {
+        "name": "FortiClient Endpoint Management",
+        "url": "https://forti-ems2.edge.gocolumbiamo.com/signin"
+      },
+      {
+        "name": "Aruba Clearpass",
+        "url": "https://enac.edge.gocolumbiamo.com/tips/tipsLogin.action"
+      },
+      {
+        "name": "Fortiweb",
+        "url": "https://fortiweb.core.gcm.com"
+      },
+      {
+        "name": "PRTG",
+        "url": "https://prtg.edge.gcm.com"
+      },
+      {
+        "name": "IMC",
+        "url": "https://imc1.edge.gcm.com:8443"
+      }
+    ],
+    "name": "Networking"
+  },
+  {
+    "children": [
+      {
+        "name": "VMWare",
+        "url": "https://my.vmware.com"
+      },
+      {
+        "name": "Veeam",
+        "url": "https://www.veeam.com/support.html"
+      },
+      {
+        "name": "Trend Micro Support",
+        "url": "https://success.trendmicro.com/technical-support"
+      },
+      {
+        "name": "Adrem (Netcrunch)",
+        "url": "https://account.adremsoft.com/login"
+      },
+      {
+        "name": "IBM Support",
+        "url": "https://www.ibm.com/support/home/"
+      },
+      {
+        "name": "Dell Support",
+        "url": "https://www.dell.com/support/home/en-us"
+      },
+      {
+        "name": "Thycotic (Delinea)",
+        "url": "https://support.delinea.com/login?startURL=%2Fs%2F%3Ft%3D1697642816973"
+      }
+    ],
+    "name": "Licensing/Support Portals"
+  },
+  {
+    "children": [
+      {
+        "name": "Employee Directory",
+        "url": "https://www.mycolumbiamo.com/EmployeeDirectory/"
+      },
+      {
+        "name": "Employee Self Service",
+        "url": "https://selfservice.como.gov/ess/"
+      },
+      {
+        "name": "PowerBI Graphs for IT Work Orders",
+        "url": "https://www.mycolumbiamo.com/dashboard/munis_work_orders_it.html"
+      },
+      {
+        "name": "MUNIS WORK ORDERS",
+        "url": "https://tylerhub.edge.gocolumbiamo.com"
+      }
+    ],
+    "name": "Employee Sites"
+  }
+]
